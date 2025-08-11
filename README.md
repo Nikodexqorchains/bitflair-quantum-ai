@@ -1,2 +1,3 @@
 # bitflair-quantum-ai
 Bitflair Quantum Ai (btflr) — No-developer, no-fee ERC20 token deployed on the XDC Network with 8 decimals, enabling accessible, secure, and cost-free blockchain transactions.
+Bitflair Quantum Ai (btflr) is a groundbreaking ERC20-compliant token built on the XDC Network, designed to remove technical and financial barriers to blockchain adoption. Created by Kenneth Habaasa Mulera (Niko Dex Qorchains), btflr operates with 8 decimal precision and leverages XDC’s ultra-low transaction costs to enable fast, secure, and fee-free transfers. This repository contains the complete smart contract source code, deployment scripts, and configuration files for deploying btflr tokens seamlessly to the XDC mainnet or testnets.
